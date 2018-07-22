@@ -1,4 +1,5 @@
-version control with GIT 1
-- Upadte file to tst Github
-- Update file to local from Github
+version control with GIT 1.
+- Upadte file to tst Github.
+- Update file to local from Github.
+- Bla Bla Bla.
 - This is my file.
